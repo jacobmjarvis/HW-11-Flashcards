@@ -1,0 +1,52 @@
+[
+  {
+    "type": "BasicCard",
+    "front": "What is local color writing?",
+    "back": "Writing about the specific culture of a country"
+  },
+  {
+    "type": "ClozeCard",
+    "text": "Rhyme is the correspondence of sounds",
+    "cloze": "Rhyme"
+  },
+  {
+    "type": "BasicCard",
+    "front": "Using words which sound like what they mean for example Growl, hiss, pop.",
+    "back": "Onomatopoeia"
+  },
+  {
+    "type": "BasicCard",
+    "front": "Whose Twice-Told Tales was used as a model for the modern short story, was one of America's first great authors, and wrote The Scarlet Letter and The Great Carbuncle?",
+    "back": "Nathaniel Hawthorne"
+  },
+  {
+    "type": "ClozeCard",
+    "text": "Edgar Allan Poe wrote the criteria for the modern short story, influenced the development of the short story, introduced the detective story, and wrote Annabel Lee.",
+    "cloze": "Edgar Allan Poe"
+  },
+  {
+    "type": "BasicCard",
+    "front": "What was the criteria for a short story?",
+    "back": " It must produce a single effect on the reader and it must be short enough to be read in a single sitting."
+  },
+  {
+    "type": "ClozeCard",
+    "text": "Plot is what happens in the story.",
+    "cloze": "Plot"
+  },
+  {
+    "type": "BasicCard",
+    "front": "What does prose mean?",
+    "back": "Not poetry"
+  },
+  {
+    "type": "ClozeCard",
+    "text": "Plot, Characters, Theme, Setting, Tone/Mood are the components in a short story.",
+    "cloze": "Tone/Mood"
+  },
+  {
+    "type": "ClozeCard",
+    "text": "Washington Irving, Nathaniel Hawthorne, and Edgar Allan Poe were the major contributors to the American short story.",
+    "cloze": "Washington Irving"
+  }
+]
